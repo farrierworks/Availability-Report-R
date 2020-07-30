@@ -1,10 +1,11 @@
 library(devtools)
 library(RAvailabilityDashboard)
+library(shiny)
 
 
-document()
+#document()
 
-load_all()
+#load_all()
 
 
 
