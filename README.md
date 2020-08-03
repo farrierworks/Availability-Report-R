@@ -39,7 +39,7 @@
                 * Rearrange the _Rows_ field in the following order `Equipment Number`, `Equip. Object Type` and `User & Info Statuses`
             * The _Query Properties_ must look like the following:
             
-            * ![alt text](https://github.com/Boniface316/Availability-Report-R/blob/plant_feature/img/query-prop.png?raw=true)
+            * ![alt text](https://github.com/farrierworks/Availability-Report-R/blob/master/img/query-prop.png?raw=true)
 
 5. Select all of the table headings and rows, copy and paste into a new Excel file, and save it to your USB drive as `bex.csv`.
 
@@ -50,4 +50,4 @@
 8. Double click on `run.sh` and select `Run in Terminal`. Then right click on `http:\\###:##:##:##` and select `Open Hyperlink`
 9. Upload the files and press `Create Report`
 
-![alt text](https://github.com/Boniface316/Availability-Report-R/blob/plant_feature/img/runreport.gif?raw=true)
+![alt text](https://github.com/farrierworks/Availability-Report-R/blob/master/img/runreport.gif?raw=true)
